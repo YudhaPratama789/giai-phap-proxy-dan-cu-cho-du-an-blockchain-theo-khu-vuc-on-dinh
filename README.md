@@ -1,5 +1,5 @@
 
-Trong các dự án blockchain hiện nay, yếu tố **khu vực truy cập (region)** ngày càng đóng vai trò quan trọng. Từ **test DApp, quản lý node, airdrop, whitelist, theo dõi thị trường** cho đến **vận hành nhiều ví và tài khoản**, tất cả đều có thể gặp giới hạn nếu IP không phù hợp hoặc không phản ánh đúng hành vi người dùng thực.
+Trong các dự án blockchain hiện nay, yếu tố **khu vực truy cập (region)** ngày càng đóng vai trò quan trọng. Từ **test DApp, quản lý node, airdrop, whitelist, theo dõi thị trường** cho đến **vận hành nhiều ví và tài khoản**, tất cả đều có thể gặp giới hạn nếu IP không phù hợp hoặc không đủ độ tin cậy như người dùng thật.
 
 Chỉ cần một IP **không ổn định** hoặc **bị đánh dấu** cũng đủ khiến dự án gặp lỗi truy cập, bị chặn dịch vụ hoặc làm sai lệch dữ liệu theo vùng. Vì vậy, **proxy dân cư theo khu vực** đang trở thành **hạ tầng thiết yếu** đối với các team blockchain chuyên nghiệp.
 
